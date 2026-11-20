@@ -7,6 +7,8 @@ Switch **ANC / transparency**, change the **EQ**, toggle **gaming mode**, adjust
 
 > Unofficial. Not affiliated with QCY. Tested on QCY MeloBuds Pro (vendorId 19786, firmware 2.0.4) on macOS (Apple Silicon).
 
+**Linux (Ubuntu / GNOME):** see [`linux/`](linux/README.md) for a tray-icon version.
+
 [Türkçe açıklama aşağıda](#türkçe)
 
 <p>
